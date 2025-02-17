@@ -1,4 +1,5 @@
 # Hello World
+[![Build C++](https://github.com/Jojauregui/HelloWorld/actions/workflows/helloworld.yml/badge.svg)](https://github.com/Jojauregui/HelloWorld/actions/workflows/helloworld.yml)
 
 This program demonstrates printing `Hello World` to the command line in C++.
 
